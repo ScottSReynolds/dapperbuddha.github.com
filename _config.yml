@@ -1,2 +1,2 @@
-
-server_port: 8008
+exclude: [Gemfile, Gemfile.lock, .DS_Store]
+port: 8008
