@@ -1,3 +1,5 @@
 source "http://rubygems.org"
 
-gem "jekyll", "~> 0.11.2"
+ruby '1.9.3'
+
+gem 'github-pages'

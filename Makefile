@@ -6,4 +6,4 @@ upload:
 	git push origin master
 
 test:
-	jekyll --server --auto
+	jekyll serve -w
